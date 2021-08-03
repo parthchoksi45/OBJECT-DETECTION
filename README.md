@@ -1,5 +1,5 @@
 # OBJECT-DETECTION
-## Purpose:
+<h1> Purpose:</h1>
 Object detection is breaking into a wide range of industries, with use cases ranging from personal security to productivity in the workplace. Object detection and recognition is applied in many areas of computer vision, including image retrieval, security, surveillance, automated vehicle systems and machine inspection. Significant challenges stay in the field of object recognition. The possibilities are endless when it comes to future use cases for object detection.<br>
 Given the importance of object-detection in today’s world, the purpose of this project is to develop a robust object detection algorithm which helps in locating and identifying an object into different classes in an image.<br>
 ##Technologies Used:
